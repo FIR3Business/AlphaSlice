@@ -10,6 +10,8 @@ The problem:
 The Solution
 AlphaSlice tackles waste at both ends of the print:
 - Before printing: AI generates slicer settings (walls, infill, and more) based on your part geometry and your goals for the part, so you get it right the first time.
+  <img width="694" height="501" alt="image" src="https://github.com/user-attachments/assets/9b957236-75fe-4953-a956-c6e2d5b5c977" />
+
 - During printing: A live webcam feed is analyzed with computer vision to detect print issues, then the print is automatically paused or cancelled before more material is wasted.
 
 Features:
