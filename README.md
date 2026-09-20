@@ -35,7 +35,7 @@ Across 100 prints of a representative PLA part, AlphaSlice is modeled to cut fil
 
 How the numbers were built
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/27a8f906-c257-43c7-875e-9519824db1b9" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/27a8f906-c257-43c7-875e-9519824db1b9" />
 
 
 Energy and emissions use 10.6 kWh per kg of printed PLA, 0.207 kg CO2 per kWh (UK grid), and 0.5 kg CO2 per kg of PLA produced.
