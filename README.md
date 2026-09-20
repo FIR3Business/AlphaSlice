@@ -1,7 +1,7 @@
 # AlphaSlice
-Introduction video:
+**Introduction video:**
 https://youtu.be/JZjdcmXQk_E
-
+⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 
 AI-powered slicer settings and live print monitoring, built to cut 3D printing waste.
 AlphaSlice helps makers stop guessing. Import your part, tell the AI what you need, and get slicer settings tuned to the job. Then let a webcam watch the print and stop it early if something goes wrong, so fewer failed prints end up in the trash, reducing waste and saving the climate one print at a time.
