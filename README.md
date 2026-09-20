@@ -1,6 +1,6 @@
 # AlphaSlice
 **Introduction video:**
-https://youtu.be/JZjdcmXQk_E
+https://www.youtube.com/watch?v=cJW_EpPYO_Q
 
 ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 
