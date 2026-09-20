@@ -1,0 +1,13 @@
+How to operate AlphaSlice: (Windows Users, not mac)
+1. Download the zipped file, under AlphaSlice. Name: Alphaslice_Version_142
+2. Unzip the folder, or extract the contents
+3. Click on START_ALPHASLICE file. A popup will show whether you confirm to run the commands or not. Click confirm if you are ready to run the commands.
+     Commands ran are all automatic, within the file. It will automatically install all packages and codefiles required for Alphaslice to run and operate properly. That's why it will pop up as a warning-it launches commands for you.
+4. Wait for the steps in terminal, launched by START_ALPHASLICE to complete.
+5. After completed, the browser will AUTOMATICALLY launch for you.
+6. If the page does not work, please reload it, it is locally hosted.
+
+TO SHUT DOWN:
+In the terminal, press CTRL+C
+Then, confirm by pressing "y"
+You have successfully exited Alphaslice.
