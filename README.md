@@ -70,3 +70,6 @@ Embodied energy of usable PLA material: 10.6 kWh per kg for the printing step.
 Life Cycle Assessment of PLA in 3D Printing Applications: about 0.5 kg CO2 per kg of PLA and a UK grid factor of 0.207 kg CO2 per kWh.
 Mechanical Property Characterization of Virgin and Recycled PLA Blends: PLA takes over 80 years to decompose.
 
+What was worked on...
+Preparation before hackathon was done, via the ordering of hardware, and the fundamental logics and hardware related changes on Vision OPS.
+During the hackathon, Alphaslice was made possible, with advanced and through ai and dataset logical training, and the final incorporation of Vision OPS to bring a greener environment. 
