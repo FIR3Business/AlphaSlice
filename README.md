@@ -26,17 +26,18 @@ AlphaSlice tackles waste at both ends of the print:
 Features:
 1. AI-Generated Slicer Settings
 Import your part (e.g. STL) then describe what the part needs to do in plain language (for example, "a wall hook that holds about 5 kg" or "a decorative figurine"). AlphaSlice recommends settings such as wall count and infill matched to your goal, avoiding both under-building and wasteful over-building
+<img width="1041" height="475" alt="image" src="https://github.com/user-attachments/assets/efb94ec3-bd44-4946-b7d6-452fdf550c2d" />
 
-2. Live Failure Detection (Vision Ops)
+
+3. Live Failure Detection (Vision Ops)
 Connects to a webcam pointed at your printer Continuously scans the part while it prints using vision analysis powered by the Groq API for fast inference. Detects issues such as spaghetti, layer shifts, bed detachment, and other visible defects. Automatically pauses or cancels the print when a problem is found and send you a discord message with a live screenshot of the failure.
+<img width="1070" height="517" alt="image" src="https://github.com/user-attachments/assets/9072aab8-ca04-476d-8062-59047d9e7cb2" />
 
-3. Built for Sustainability
+
+4. Built for Sustainability
 Less trial-and-error means fewer throwaway prints and less filament per part, early failure detection stops waste the moment it starts.
 
 Impact: 
-
-Show Image
-
 Across 100 prints of a representative PLA part, AlphaSlice is modeled to cut filament use from 38.0 kg to 23.8 kg, a saving of 14.2 kg (37%). That works out to roughly 151 kWh of energy and 38 kg of CO2e avoided, and 14.2 kg less plastic headed for landfill.
 
 How the numbers were built
