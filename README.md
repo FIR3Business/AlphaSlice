@@ -34,7 +34,7 @@ Show Image
 Across 100 prints of a representative PLA part, AlphaSlice is modeled to cut filament use from 38.0 kg to 23.8 kg, a saving of 14.2 kg (37%). That works out to roughly 151 kWh of energy and 38 kg of CO2e avoided, and 14.2 kg less plastic headed for landfill.
 
 How the numbers were built
-<img width="1082" height="1084" alt="image" src="https://github.com/user-attachments/assets/27a8f906-c257-43c7-875e-9519824db1b9" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/27a8f906-c257-43c7-875e-9519824db1b9" />
 
 
 Energy and emissions use 10.6 kWh per kg of printed PLA, 0.207 kg CO2 per kWh (UK grid), and 0.5 kg CO2 per kg of PLA produced.
